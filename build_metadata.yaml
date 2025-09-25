@@ -1,0 +1,23 @@
+inputs:
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\Laptop_Train_v2.csv
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\Laptops_Test_Data_PhaseA.csv
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\Laptops_Test_Data_PhaseB.csv
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\Restaurants_Test_Data_PhaseA.csv
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\Restaurants_Train_v2.csv
+- C:\Users\NXTWAVE\Downloads\Aspect Based Review Miner\archive\restaurants-trial.csv
+schema_labeled:
+- text
+- category
+- polarity
+- id
+schema_unlabeled:
+- text
+- id
+counts:
+  labeled_rows: 6147
+  unlabeled_rows: 2400
+  labels:
+    positive: 3219
+    negative: 1689
+    neutral: 1239
+model: TFIDF + LogisticRegression (class_weight=balanced)
