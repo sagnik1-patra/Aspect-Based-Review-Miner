@@ -1,4 +1,4 @@
-AspectSense — Aspect‑Based Review Miner (Windows)
+AspectSense — Aspect‑Based Review Miner (Windows).
 
 AspectSense extracts aspects (e.g., LAPTOP#BATTERY, DISPLAY, SERVICE) from reviews and learns a sentiment classifier per aspect. It ships with:
 
