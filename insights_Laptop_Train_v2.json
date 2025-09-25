@@ -1,0 +1,8 @@
+{
+  "file": "C:\\Users\\NXTWAVE\\Downloads\\Aspect Based Review Miner\\archive\\Laptop_Train_v2.csv",
+  "distribution": {
+    "positive": 909,
+    "negative": 895,
+    "neutral": 554
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "file": "C:\\Users\\NXTWAVE\\Downloads\\Aspect Based Review Miner\\archive\\Laptops_Test_Data_PhaseA.csv",
+  "distribution": {
+    "positive": 413,
+    "negative": 273,
+    "neutral": 114
+  }
+}

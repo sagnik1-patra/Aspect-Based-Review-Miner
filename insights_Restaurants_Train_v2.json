@@ -1,0 +1,8 @@
+{
+  "file": "C:\\Users\\NXTWAVE\\Downloads\\Aspect Based Review Miner\\archive\\Restaurants_Train_v2.csv",
+  "distribution": {
+    "positive": 2046,
+    "negative": 824,
+    "neutral": 823
+  }
+}

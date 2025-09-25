@@ -1,0 +1,97 @@
+id,Sentence,Aspect Term,polarity,from,to,predicted_polarity,confidence,proba_negative,proba_neutral,proba_positive
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",appetizers,positive,8,18,positive,0.9097727815302336,0.03669084690805682,0.05353637156170958,0.9097727815302336
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",salads,positive,23,29,positive,0.939846604784387,0.033054426553123975,0.027098968662489065,0.939846604784387
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",steak,positive,49,54,positive,0.9228734504399078,0.036631710653627345,0.040494838906464804,0.9228734504399078
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",pasta,positive,82,87,positive,0.9298341375834474,0.03952663691838714,0.03063922549816552,0.9298341375834474
+1579,And really large portions.,portions,positive,17,25,positive,0.8858831618147721,0.08285472124358349,0.031262116941644325,0.8858831618147721
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,sweet lassi,positive,4,15,positive,0.6373746884110691,0.3062836409041676,0.05634167068476327,0.6373746884110691
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,lamb chettinad,positive,41,55,positive,0.6373746884110693,0.3062836409041675,0.05634167068476326,0.6373746884110693
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,garlic naan,positive,64,75,positive,0.6100107849102047,0.3312596400335621,0.05872957505623313,0.6100107849102047
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,rasamalai,negative,84,93,negative,0.5269679080860983,0.5269679080860983,0.05696644962249447,0.4160656422914073
+1609,Service was quick.,Service,positive,0,7,positive,0.6829406096570406,0.15334714902698784,0.1637122413159715,0.6829406096570406
+3018,"Oh, don't even let me start with how expensive the bills were!",bills,negative,51,56,negative,0.8244674819840246,0.8244674819840246,0.06307202792610592,0.11246049008986947
+3292,Service is top notch.,Service,positive,0,7,positive,0.8582854141864019,0.08305997163308357,0.058654614180514465,0.8582854141864019
+2041,The best thing I tasted were the lambc hops.,lambc hops,positive,33,43,positive,0.8338151682119624,0.09615915585142734,0.07002567593661027,0.8338151682119624
+3440,"Even though its good seafood, the prices are too high.",seafood,positive,21,28,positive,0.5762765128314279,0.37601874299937293,0.04770474416919926,0.5762765128314279
+3440,"Even though its good seafood, the prices are too high.",prices,negative,34,40,negative,0.5601961972090539,0.5601961972090539,0.053656998685152696,0.38614680410579333
+870,"In addition, the food is very good and the prices are reasonable.",food,positive,17,21,positive,0.9790298467055144,0.007023979016737505,0.013946174277748087,0.9790298467055144
+870,"In addition, the food is very good and the prices are reasonable.",prices,positive,43,49,positive,0.966838170344833,0.013033186036098886,0.02012864361906813,0.966838170344833
+2507,The food is great and authentic.,food,positive,4,8,positive,0.9868562417837098,0.0019926958302397962,0.011151062386050362,0.9868562417837098
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",garlic shrimp,positive,16,29,positive,0.914069941363421,0.036909309574267836,0.049020749062311124,0.914069941363421
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",okra (bindi),positive,31,43,positive,0.9056920831773607,0.042371782649724306,0.05193613417291502,0.9056920831773607
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",lamb,positive,63,67,positive,0.9237583045608088,0.03287371369845396,0.04336798174073713,0.9237583045608088
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",menu,positive,4,8,neutral,0.9146849802061073,0.03144967385418735,0.9146849802061073,0.053865345939705295
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",burger,neutral,55,61,neutral,0.8794940987032465,0.03596586698171715,0.8794940987032465,0.08454003431503644
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",steak,neutral,66,71,neutral,0.8943789345152598,0.032388705783775666,0.8943789345152598,0.07323235970096438
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",escargot,neutral,76,84,neutral,0.8988289530408619,0.03596321040057851,0.8988289530408619,0.06520783655855959
+2077,very good breads as well.,breads,positive,10,16,positive,0.9227123549709433,0.03318702178835795,0.0441006232406988,0.9227123549709433
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",food,positive,12,16,positive,0.9451665195428646,0.010934199156654242,0.043899281300481256,0.9451665195428646
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",price,positive,30,35,positive,0.9606385756911945,0.011912422880092706,0.027449001428712812,0.9606385756911945
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",wine list,positive,68,77,positive,0.9586707410395225,0.011669616473386941,0.029659642487090535,0.9586707410395225
+3049,The food was lousy -too sweet or too salty and the portions tiny.,food,negative,4,8,negative,0.8916482390534116,0.8916482390534116,0.030690579722543687,0.07766118122404472
+3049,The food was lousy -too sweet or too salty and the portions tiny.,portions,negative,51,59,negative,0.9442574020697974,0.9442574020697974,0.011292827170718755,0.0444497707594839
+1242,But the coconut rice was good.,coconut rice,positive,8,20,positive,0.6779964186719578,0.18595660662496116,0.13604697470308103,0.6779964186719578
+2211,And the Tom Kha soup was pathetic.,Tom Kha soup,negative,8,20,negative,0.8502703739498738,0.8502703739498738,0.04894105756760896,0.10078856848251722
+3343,The food now is inconsistent.,food,negative,4,8,negative,0.741933786467942,0.741933786467942,0.08434376291231235,0.1737224506197458
+2141,"Try the crunchy tuna, it is to die for.",crunchy tuna,positive,8,20,positive,0.8998421444012639,0.06036757094646628,0.03979028465226975,0.8998421444012639
+83,Reasonable prices.,prices,positive,11,17,positive,0.8154006017356432,0.11167118182062723,0.0729282164437296,0.8154006017356432
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,service,positive,18,25,positive,0.9318454462383341,0.04077536395502116,0.027379189806644753,0.9318454462383341
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,food,positive,36,40,positive,0.9405577304284294,0.030003561441517987,0.029438708130052622,0.9405577304284294
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,price,positive,57,62,positive,0.9496481687004851,0.030692453055634065,0.019659378243880928,0.9496481687004851
+1709,"Unfortunately, the food was NOT something to get worked up about.",food,negative,19,23,negative,0.8439974441327969,0.8439974441327969,0.0980675393683904,0.057935016498812685
+193,The food is great and reasonably priced.,food,positive,4,8,positive,0.9896518922817156,0.0023370194363561032,0.008011088281928383,0.9896518922817156
+193,The food is great and reasonably priced.,priced,positive,33,39,positive,0.9858131356761414,0.007531394820735994,0.006655469503122515,0.9858131356761414
+1293,"Their calzones are horrific, bad, vomit-inducing, YUCK.",calzones,negative,6,14,negative,0.8527098840429064,0.8527098840429064,0.053390590805956484,0.09389952515113698
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",turnip cake,negative,21,32,negative,0.8770031959297923,0.8770031959297923,0.04165847528809275,0.08133832878211499
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",roast pork buns,negative,34,49,negative,0.8860058822521161,0.8860058822521161,0.038988144859675215,0.07500597288820868
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",egg custards,negative,54,66,negative,0.8770031959297923,0.8770031959297923,0.04165847528809275,0.08133832878211499
+2152,The bagels are fabulous.,bagels,positive,4,10,positive,0.8021686888553151,0.0357272497828096,0.16210406136187525,0.8021686888553151
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",ambiance,positive,10,18,positive,0.5597496476638044,0.4056357115780106,0.03461464075818493,0.5597496476638044
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",atmosphere,positive,23,33,positive,0.6105090799586238,0.3476320173549955,0.041858902686380636,0.6105090799586238
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",food,negative,50,54,positive,0.4805453133756704,0.466329889344135,0.053124797280194515,0.4805453133756704
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",service,negative,59,66,negative,0.6666068071609579,0.6666068071609579,0.03317379869204435,0.30021939414699783
+1124,"Our waitress was sweet and accomodating, not overbearing.",waitress,positive,4,12,positive,0.6204748758962633,0.27321421367888754,0.10631091042484922,0.6204748758962633
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",fish,positive,33,37,positive,0.8870818727140205,0.06199921251550881,0.05091891477047062,0.8870818727140205
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",rice,positive,45,49,positive,0.8539488874006169,0.07671067928919416,0.06934043331018884,0.8539488874006169
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",seaweed,positive,57,64,positive,0.8856554250579665,0.06374619845968614,0.05059837648234747,0.8856554250579665
+3170,"Good spreads, great beverage selections and bagels really tasty.",spreads,positive,5,12,positive,0.9637914913964937,0.013066622945197568,0.023141885658308724,0.9637914913964937
+3170,"Good spreads, great beverage selections and bagels really tasty.",beverage selections,positive,20,39,positive,0.9734296852676262,0.008632324830996423,0.017937989901377363,0.9734296852676262
+3170,"Good spreads, great beverage selections and bagels really tasty.",bagels,positive,44,50,positive,0.9697252208349173,0.007389080670856175,0.022885698494226617,0.9697252208349173
+2171,The food options rule.,food options,positive,4,16,positive,0.8176580292121047,0.0959064771949196,0.08643549359297562,0.8176580292121047
+2811,Consistently good Japanese Tapas.,Japanese Tapas,positive,18,32,positive,0.8572888785709347,0.08199884915420892,0.06071227227485625,0.8572888785709347
+339,The sushi was awful!,sushi,negative,4,9,negative,0.646835739566986,0.646835739566986,0.2091540937087348,0.14401016672427916
+776,The food was great.,food,positive,4,8,positive,0.9699334833664031,0.012486791194852713,0.017579725438744264,0.9699334833664031
+924,With the theater 2 blocks away we had a delicious meal in a beautiful room.,meal,positive,50,54,positive,0.8706989085831802,0.05427273381840417,0.07502835759841552,0.8706989085831802
+924,With the theater 2 blocks away we had a delicious meal in a beautiful room.,room,positive,70,74,positive,0.8911253028945224,0.05944332385302782,0.0494313732524498,0.8911253028945224
+1273,I love the fact that the pizza tastes so good and is so cheap.,pizza,positive,25,30,positive,0.9718702044953513,0.014415687494930607,0.01371410800971815,0.9718702044953513
+179,"Service was prompt, friendly and great.",Service,positive,0,7,positive,0.9663751263596485,0.009068636504763191,0.024556237135588365,0.9663751263596485
+109,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.",lamb chop,positive,16,25,positive,0.8860141103734144,0.047353780673223586,0.06663210895336213,0.8860141103734144
+109,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.",salads,positive,52,58,positive,0.9084448047261179,0.039179492820414885,0.05237570245346714,0.9084448047261179
+1057,Drawbacks: service is slow and they don't toast!,service,negative,11,18,negative,0.8971206349158694,0.8971206349158694,0.04272874629054644,0.060150618793584444
+2451,The prices were fantastic.,prices,positive,4,10,positive,0.7501838396270419,0.1401895183393659,0.10962664203359228,0.7501838396270419
+1548,"The food is terrible and overall, I would have to say avoid at all costs.",food,negative,4,8,negative,0.8072135036680977,0.8072135036680977,0.08294766629835473,0.10983883003354764
+134,The food is prepared quickly and efficiently.,food,positive,4,8,positive,0.8607656367585845,0.061736785588079914,0.07749757765333555,0.8607656367585845
+2708,"The food is fresh, delicious, and reasonably priced.",food,positive,4,8,positive,0.9813389275141318,0.006241667625032184,0.012419404860836092,0.9813389275141318
+2708,"The food is fresh, delicious, and reasonably priced.",priced,positive,45,51,positive,0.9757004953187045,0.01478809513712797,0.009511409544167487,0.9757004953187045
+3575,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry.",waiter,neutral,68,74,neutral,0.7632731965624832,0.14696174963595987,0.7632731965624832,0.08976505380155703
+742,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,outdoor atmosphere,positive,4,22,positive,0.8292982039396156,0.09711230966323207,0.07358948639715221,0.8292982039396156
+1471,"A large is $20, and toppings are about $3 each.",toppings,neutral,20,28,neutral,0.7876169285654735,0.0551899446890931,0.7876169285654735,0.15719312674543331
+1656,The spicy tuna and salmon are the best we've ever had.,spicy tuna,positive,4,14,positive,0.954803478551389,0.01635400397818084,0.028842517470430058,0.954803478551389
+1656,The spicy tuna and salmon are the best we've ever had.,salmon,positive,19,25,positive,0.944759440163343,0.01954614899870564,0.03569441083795127,0.944759440163343
+3681,"The food was very good, a great deal, and the place its self was great.",food,positive,4,8,positive,0.9849660606844949,0.007158805528169666,0.007875133787335441,0.9849660606844949
+3681,"The food was very good, a great deal, and the place its self was great.",place,positive,46,51,positive,0.9679564181925416,0.023463601415514453,0.008579980391943855,0.9679564181925416
+2205,The food is usually good but it certainly isn't a relaxing place to go.,food,positive,4,8,positive,0.47184742188469203,0.36935090225744377,0.15880167585786423,0.47184742188469203
+2205,The food is usually good but it certainly isn't a relaxing place to go.,place,negative,59,64,negative,0.6338287330542423,0.6338287330542423,0.09279785612398213,0.27337341082177563
+1159,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.",dinner,neutral,6,12,neutral,0.7549019526147019,0.05316936470329693,0.7549019526147019,0.19192868268200108
+1159,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.",dance floor,positive,41,52,neutral,0.4791506416685306,0.08728532255702517,0.4791506416685306,0.4335640357744443
+628,The server was really cool and served us our food and drinks with a smile.,server,positive,4,10,neutral,0.582406571110813,0.04285307068805531,0.582406571110813,0.3747403582011318
+628,The server was really cool and served us our food and drinks with a smile.,served,positive,31,37,neutral,0.6340883762408333,0.03405833931765698,0.6340883762408333,0.3318532844415097
+628,The server was really cool and served us our food and drinks with a smile.,food,neutral,45,49,neutral,0.7056496593759198,0.016712838308830427,0.7056496593759198,0.27763750231524964
+628,The server was really cool and served us our food and drinks with a smile.,drinks,neutral,54,60,neutral,0.7528425556652754,0.020475625997541033,0.7528425556652754,0.22668181833718348
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",dishes,positive,4,10,positive,0.9738322815897797,0.008028487954271132,0.01813923045594921,0.9738322815897797
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",lamb sausages,positive,62,75,positive,0.9681432820902846,0.011192229425748013,0.020664488483967458,0.9681432820902846
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",sardines with biscuits,positive,77,99,positive,0.9681432820902846,0.011192229425748013,0.020664488483967458,0.9681432820902846
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",large whole shrimp,positive,101,119,positive,0.9681432820902846,0.011192229425748013,0.020664488483967458,0.9681432820902846
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",pistachio ice cream,positive,135,154,positive,0.9681432820902846,0.011192229425748013,0.020664488483967458,0.9681432820902846
+3188,Went there for an office lunch.,office lunch,neutral,18,30,neutral,0.8774366680369468,0.05905104181470463,0.8774366680369468,0.0635122901483486
+3041,"We've only eaten in the restaurant once, but we have ordered many times for dinner.",dinner,neutral,76,82,neutral,0.9429472957425615,0.03616593093185232,0.9429472957425615,0.020886773325586
